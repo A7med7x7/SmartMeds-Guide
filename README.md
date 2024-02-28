@@ -1,6 +1,6 @@
 # Smartmeds
 
-Smartmeds is a capstone project developed by the Outliers team.
+Smartmeds is a capstone project developed by the Outliers team as a part of Samsung Innovation Campus Qatar 2023 Artifical Intellegence Program 
 
 ## Team Members
 
@@ -13,6 +13,6 @@ Smartmeds is a capstone project developed by the Outliers team.
 
 ## About the Project
 
-Smartmeds aims to predict the top 5 medications based on a medical condition using machine learning and ChatGPT-04. This project was developed as part of a capstone project. You can read more about the project on [Medium](https://medium.com/@ahmedalghali/predicting-the-top-5-medications-based-on-condition-using-machine-learning-and-chatgpt-04-460ee267be75).
+Smartmeds aims to predict the top 5 medications based on a medical condition using machine learning and ChatGPT-04. You can read more about the project on [Medium](https://medium.com/@ahmedalghali/predicting-the-top-5-medications-based-on-condition-using-machine-learning-and-chatgpt-04-460ee267be75).
 
 Feel free to explore the project and provide feedback!
